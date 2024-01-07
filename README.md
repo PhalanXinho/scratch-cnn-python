@@ -3,4 +3,5 @@ Developing a convolutional neural network from scratch using only python and num
 
 ## project structure
 main project and the training of the neural network is in the jupyter notebook
+
 rest of *.py files are classes to support the main functionality of the program
